@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Mikael-duru/Interactive-rating-component.git](https://github.com/Mikael-duru/Interactive-rating-component.git)
+- Live Site URL: [https://mikael-duru.github.io/Interactive-rating-component/](https://mikael-duru.github.io/Interactive-rating-component/)
 
 ## My process
 
@@ -90,6 +90,6 @@ btns.forEach((btn) => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add website here](https://www.your-site.com)
 - Frontend Mentor - [@mikael-duru](https://www.frontendmentor.io/profile/mikael-duru)
 - Twitter - [@MikaelDuru](https://www.twitter.com/mikaelduru)
