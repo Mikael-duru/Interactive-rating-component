@@ -5,7 +5,7 @@
   --white: hsl(0, 0%, 100%);
   --light-grey: hsl(217, 12%, 63%);
   --medium-grey: hsla(216, 12%, 54%, .1);
-  --dark-blue: hsl(213, 19%, 18%);
+  --dark-blue: hsla(213, 19%, 18%, .8);
   --very-dark-blue: hsl(216, 12%, 8%);
 }
 
@@ -52,7 +52,7 @@ main {
 
 .card1,
 .card2 {
-  width: 360px;
+  width: 365px;
   background: var(--dark-blue);
   border-radius: 3rem;
 }
@@ -68,7 +68,7 @@ main {
   width: 40px;
   border-radius: 50%;
   background: var(--medium-grey);
-  margin-bottom: 3rem;
+  margin-bottom: 3.5rem;
   text-align: center;
 }
 
@@ -79,7 +79,7 @@ main {
 
 .card1 p {
   font-size: 14px;
-  margin: 1rem 0 2rem;
+  margin: 1rem 0 3.6rem;
   line-height: 1.5;
 }
 
@@ -94,11 +94,11 @@ main {
 .card1 .rating-container .rating-btn {
   width: 50px;
   font-size: 14px;
-  padding: 1.4rem;
+  color: inherit;
+  padding: 1.6rem;
   background: var(--medium-grey);
+  border: none;
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
   cursor: pointer;
 }
 
@@ -125,7 +125,7 @@ main {
   border-radius: 3.5rem;
   outline: none;
   cursor: pointer;
-  margin: 1rem 0 .8rem;
+  margin: 1.5rem 0 .8rem;
 }
 
 .btn:hover {
@@ -215,7 +215,7 @@ main {
   }
 
   .card1 p {
-    margin: 1.5rem 0 3rem;
+    margin: 1.6rem 0 3rem;
   }
 
   /* card2 */
