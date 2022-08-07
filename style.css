@@ -95,7 +95,7 @@ main {
   width: 50px;
   font-size: 15px;
   color: inherit;
-  padding: 1.6rem;
+  padding: 1.8rem;
   background: var(--medium-grey);
   border: none;
   border-radius: 50%;
@@ -107,8 +107,9 @@ main {
   background: var(--orange);
 }
 
-.rating-btn[aria-selected="true"] {
-	font-weight: 700;
+.card1 .rating-container .rating-btn[aria-pressed="true"] {
+	background-color: hsla(216, 12%, 54%, .8);
+	font-weight: 400;
 }
 
 .btn {

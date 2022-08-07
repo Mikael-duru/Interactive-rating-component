@@ -19,9 +19,9 @@ btns.forEach((btn) => {
         // Sets all rating-btn aria to false
         btns[i].setAttribute('aria-pressed', false);
         
-        // Sets user selected rating-btn aria to true and increase background opacity
+        // Sets user selected rating-btn aria to true
         selectedBtn.setAttribute('aria-pressed', true);
-        selectedBtn.style.background = 'hsla(216, 12%, 54%, .8)';
+      
         
         // Prints user selected rating value to thank-you box
         selectedRating.textContent = selectedBtn.id;
