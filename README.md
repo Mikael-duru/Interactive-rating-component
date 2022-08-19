@@ -92,4 +92,4 @@ btns.forEach((btn) => {
 
 - Website - [Add website here](https://www.your-site.com)
 - Frontend Mentor - [@mikael-duru](https://www.frontendmentor.io/profile/mikael-duru)
-- Twitter - [@MikaelDuru](https://www.twitter.com/mikaelduru)
+- Twitter - [@DuruMykael](https://www.twitter.com/durumykael)
