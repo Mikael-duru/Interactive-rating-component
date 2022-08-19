@@ -43,6 +43,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- JavaScript ES6
 - Mobile code editor (Spck)
 
 ### What I learned
